@@ -7,11 +7,17 @@ i am not a pro, i just code this for my gf, so please excuse..
 you can do node/npm -v to make sure you have it
 
 # you also need electron!!
+```bash 
 npm i electron
+```
 
 to run the app
+```bash
 npx electronmon .
+```
 for constant refresh!
 if no refresh,
+```bash 
 npm run start
+```
 i think
