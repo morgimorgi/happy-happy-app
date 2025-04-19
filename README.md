@@ -1,12 +1,12 @@
-# may all your wishes come true ˚ ༘ ೀ⋆｡˚
+# ✨ may all your wishes come true ˚ ༘ ೀ⋆｡˚
 
-## dependencies!!!
+## dependencies!!!💟
 i am not a pro, i just code this for my gf, so please excuse..
 
-# you need node.js and the npm stuff! but i think this is standard..
+### you need node.js and the npm stuff! but i think this is standard..
 you can do node/npm -v to make sure you have it
 
-# you also need electron!!
+### you also need electron!!
 ```bash 
 npm i electron
 ```
@@ -21,3 +21,7 @@ if no refresh,
 npm run start
 ```
 i think
+
+if my girlfriend is reading this:
+HELLO! i love you and i hope you like my FIRST solo project!!!! you taught me how to get here :3 💞
+keep doing what you are doing! you are doing amazing!!!! happy birthday sweet pea 🍨🎆
