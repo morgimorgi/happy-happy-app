@@ -8,7 +8,7 @@ you can do node/npm -v to make sure you have it
 
 ### you also need electron!!
 ```bash 
-npm i electron
+npm install
 ```
 
 to run the app
