@@ -1,4 +1,4 @@
-#may all your wishes come true ˚ ༘ ೀ⋆｡˚
+# may all your wishes come true ˚ ༘ ೀ⋆｡˚
 
 ## dependencies!!!
 i am not a pro, i just code this for my gf, so please excuse..
