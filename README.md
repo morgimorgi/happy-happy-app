@@ -1,6 +1,6 @@
-# ✨ may all your wishes come true ˚ ༘ ೀ⋆｡˚
+#may all your wishes come true ˚ ༘ ೀ⋆｡˚
 
-## dependencies!!!💟
+## dependencies!!!
 i am not a pro, i just code this for my gf, so please excuse..
 
 ### you need node.js and the npm stuff! but i think this is standard..
